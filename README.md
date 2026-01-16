@@ -14,6 +14,7 @@ Como jogar:
 import random
 
 numero_secreto = random.randint(1, 100)
+
 tentativas = 0
 
 print("Adivinhe o número (1 a 100)")
