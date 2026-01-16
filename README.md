@@ -20,6 +20,7 @@ tentativas = 0
 print("Adivinhe o número (1 a 100)")
 
 while True:
+
     tentativa = int(input("Seu palpite: "))
     tentativas += 1
     
