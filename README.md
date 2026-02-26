@@ -2,14 +2,6 @@
 
 > Joguinho em Python que fiz para jogar no CMD quando estiver entediada 
 
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-✨ by: [@gessicatb](https://github.com/gessicatb) ✨  
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
 ---
 
 ## 📋 Como jogar
