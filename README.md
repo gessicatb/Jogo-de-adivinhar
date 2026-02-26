@@ -37,7 +37,7 @@ while True:
     elif tentativa > numero_secreto:
         print("Mais baixo!")
     else:
-        print(f"🎉 Acertou em {tentativas} tentativas!")
+        print(f"Acertou em {tentativas} tentativas!")
         break
 ```
 
